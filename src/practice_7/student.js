@@ -1,4 +1,4 @@
-var Person = require("../../src/practice_6/person.js");
+var Person = require("../../src/practice_7/person.js");
 class Student extends Person{
 	constructor(name, age, klass) {
 		super(name, age);
